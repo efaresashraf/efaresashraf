@@ -6,7 +6,7 @@
 
 ### 👨‍💻 &nbsp;About Me
 
-🎓 &nbsp;Currently studying Computer Science at El Sewedy Polytechnic (Starting 2025)\
+🎓 &nbsp;Currently studying Ai & Data Science at El Sewedy Polytechnic Starting 2025\
 💼 &nbsp;Technical graduate from El Sewedy Technical Academy – Programming Department\
 💻 &nbsp;Hands-on experience with ERP systems like Odoo and Oracle\
 🔧 &nbsp;Skilled in Java, HTML, CSS, SQL, and mobile app development\
